@@ -1,0 +1,6 @@
+/bin
+/build
+/dist
+/artifacts
+/test
+node_modules
